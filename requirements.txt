@@ -1,1 +1,10 @@
+pymongo
+neo4j
+python-dotenv
+faker
+textblob
+pandas
+streamlit
+watchdog
+
 # python manage.py run
